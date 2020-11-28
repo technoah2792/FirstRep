@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{76CC7FC6-28D3-45D8-8FCB-CFB3C903B6F3}|Default">
+  <MonoDevelop.Ide.ItemProperties.MyFirstNodeApp FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyFirstNodeApp/HelloWorld.js">
+    <Files>
+      <File FileName="MyFirstNodeApp/HelloWorld.js" Line="21" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyFirstNodeApp" expanded="True">
+            <Node name="MyFirstNodeApp" expanded="True">
+              <Node name="HelloWorld.js" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/admin/Main_Drive/My_Folder/VisualStudioApps/FirstNodeJSApp/MyFirstNodeApp/MyFirstNodeApp/HelloWorld.js" relfile="MyFirstNodeApp/HelloWorld.js" line="7" column="1" />
+      <Breakpoint file="/Users/admin/Main_Drive/My_Folder/VisualStudioApps/FirstNodeJSApp/MyFirstNodeApp/MyFirstNodeApp/HelloWorld.js" relfile="MyFirstNodeApp/HelloWorld.js" line="19" column="1" />
+      <Breakpoint file="/Users/admin/Main_Drive/My_Folder/VisualStudioApps/FirstNodeJSApp/MyFirstNodeApp/MyFirstNodeApp/HelloWorld.js" relfile="MyFirstNodeApp/HelloWorld.js" line="21" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
