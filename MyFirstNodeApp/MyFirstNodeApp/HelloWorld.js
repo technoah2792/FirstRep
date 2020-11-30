@@ -1,7 +1,6 @@
 ﻿
+// HTTP
 var http = require("http");
-
-var net = require("net");
 
 http.createServer(function (request, response) {
    // Send the HTTP header 
@@ -16,6 +15,10 @@ http.createServer(function (request, response) {
 // Console will print the message
 console.log('Server running at http://127.0.0.1:8081/');
 
+
+// TCP
+var net = require("net");
+
 const server = net.createServer(socket => {
     socket.write("Hello");
     socket.on("data", data => {
@@ -24,3 +27,14 @@ const server = net.createServer(socket => {
 });
 
 server.listen(8085);
+
+
+// UDP
+const dgram = require('dgram');
+const socket = dgram.createSocket('udp4');
+
+socket.on('message',(msg, rinfo) => {
+    console.log(`server got: ${msg} from ${rinfo.address} : ${rinfo.port}`)
+});
+
+socket.bind(9005);
