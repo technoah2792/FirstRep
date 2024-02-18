@@ -29,7 +29,7 @@ public class App
 
 
     public static int newcalculation(int a, int b) {
-        return (a * b * b * b)/(a * a);
+        return (a * b)/(a * a);
     }
     
     public static String printDoc() {
