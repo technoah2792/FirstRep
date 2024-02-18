@@ -1,0 +1,2 @@
+{"app":{"name":"GB-SSW","id":"9325","referential":"BAMplus"},"destination":{"name":"sin","ip":"10.4.238.226"},"event":{"start":2024-02-15T07:26:47Z","action":"LOGIN","outcome":"SUCCESS"},"user":{"name":"b02751"},"source":{"ip":"10.4.1.185","name":""}}	
+{"app":{"name":"GB-SSW","id":"9325","referential":"BAMplus"},"destination":{"name":"sin","ip":"10.4.238.226"},"event":{"start":2024-02-15T07:35:47Z","action":"LOGIN","outcome":"SUCCESS"},"user":{"name":"b02751"},"source":{"ip":"10.4.1.105","name":""}}	
