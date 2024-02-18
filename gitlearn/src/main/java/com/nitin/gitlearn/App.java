@@ -24,6 +24,7 @@ public class App
     }
 
     public static int multiply(int a, int b) {
+        // comment to test new change in dev
         return (a * b);
     }
     
